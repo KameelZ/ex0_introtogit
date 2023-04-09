@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Green
+Favorite food: Burger
+Favorite musician/band: BigSam
+Favorite movie: Baby driver
+Requested grade in the course: 98
